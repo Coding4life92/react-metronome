@@ -1,1 +1,1 @@
-# ReactJS Metromone with class based components
+# ReactJS Metronome with class based components
